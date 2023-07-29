@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{13AD4E47-3B80-47F9-A9C7-5EF78255B38A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Managment_System</RootNamespace>
+    <AssemblyName>Managment System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>packages\Oracle.ManagedDataAccess.21.10.0\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Json.6.0.1\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin_allProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_allProducts.Designer.cs">
+      <DependentUpon>admin_allProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_CustomerAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_CustomerAdd.Designer.cs">
+      <DependentUpon>admin_CustomerAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_CustomerDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_CustomerDelete.Designer.cs">
+      <DependentUpon>admin_CustomerDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_customerReportForm8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_customerReportForm8.Designer.cs">
+      <DependentUpon>admin_customerReportForm8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_CustomerRetrieve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_CustomerRetrieve.Designer.cs">
+      <DependentUpon>admin_CustomerRetrieve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_CustomerUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_CustomerUpdate.Designer.cs">
+      <DependentUpon>admin_CustomerUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_forget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_forget.Designer.cs">
+      <DependentUpon>admin_forget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_inventory.Designer.cs">
+      <DependentUpon>admin_inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_manageAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_manageAccount.Designer.cs">
+      <DependentUpon>admin_manageAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_manageCustomerAcc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_manageCustomerAcc.Designer.cs">
+      <DependentUpon>admin_manageCustomerAcc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_manageSalesmanAcc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_manageSalesmanAcc.Designer.cs">
+      <DependentUpon>admin_manageSalesmanAcc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_manageVendorAcc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_manageVendorAcc.Designer.cs">
+      <DependentUpon>admin_manageVendorAcc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_menu.Designer.cs">
+      <DependentUpon>admin_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_reportMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_reportMenu.Designer.cs">
+      <DependentUpon>admin_reportMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_SalesmanAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_SalesmanAdd.Designer.cs">
+      <DependentUpon>admin_SalesmanAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_SalesmanDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_SalesmanDelete.Designer.cs">
+      <DependentUpon>admin_SalesmanDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_salesmanReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_salesmanReport.Designer.cs">
+      <DependentUpon>admin_salesmanReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_SalesmanRetrieve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_SalesmanRetrieve.Designer.cs">
+      <DependentUpon>admin_SalesmanRetrieve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_SalesmanUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_SalesmanUpdate.Designer.cs">
+      <DependentUpon>admin_SalesmanUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_salesRevenueReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_salesRevenueReport.Designer.cs">
+      <DependentUpon>admin_salesRevenueReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_searchProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_searchProducts.Designer.cs">
+      <DependentUpon>admin_searchProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_signin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_signin.Designer.cs">
+      <DependentUpon>admin_signin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_signup.Designer.cs">
+      <DependentUpon>admin_signup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_VendorAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_VendorAdd.Designer.cs">
+      <DependentUpon>admin_VendorAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_VendorDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_VendorDelete.Designer.cs">
+      <DependentUpon>admin_VendorDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_VendorReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_VendorReport.Designer.cs">
+      <DependentUpon>admin_VendorReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_VendorRetrieve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_VendorRetrieve.Designer.cs">
+      <DependentUpon>admin_VendorRetrieve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_VendorUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_VendorUpdate.Designer.cs">
+      <DependentUpon>admin_VendorUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer_forget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_forget.Designer.cs">
+      <DependentUpon>customer_forget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_history.Designer.cs">
+      <DependentUpon>Customer_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_menu.Designer.cs">
+      <DependentUpon>Customer_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer_return.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_return.Designer.cs">
+      <DependentUpon>customer_return.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer_siginup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_siginup.Designer.cs">
+      <DependentUpon>customer_siginup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="salesman_forget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesman_forget.Designer.cs">
+      <DependentUpon>salesman_forget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesman_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesman_menu.Designer.cs">
+      <DependentUpon>salesman_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesman_newBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesman_newBill.Designer.cs">
+      <DependentUpon>salesman_newBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesman_return.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesman_return.Designer.cs">
+      <DependentUpon>salesman_return.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesman_signin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesman_signin.Designer.cs">
+      <DependentUpon>salesman_signin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesman_signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesman_signup.Designer.cs">
+      <DependentUpon>salesman_signup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendor_forget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendor_forget.Designer.cs">
+      <DependentUpon>vendor_forget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendor_history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendor_history.Designer.cs">
+      <DependentUpon>vendor_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendor_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendor_menu.Designer.cs">
+      <DependentUpon>vendor_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendor_products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendor_products.Designer.cs">
+      <DependentUpon>Vendor_products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendor_signin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendor_signin.Designer.cs">
+      <DependentUpon>vendor_signin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendor_signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendor_signup.Designer.cs">
+      <DependentUpon>vendor_signup.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admin_allProducts.resx">
+      <DependentUpon>admin_allProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_CustomerAdd.resx">
+      <DependentUpon>admin_CustomerAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_CustomerDelete.resx">
+      <DependentUpon>admin_CustomerDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_customerReportForm8.resx">
+      <DependentUpon>admin_customerReportForm8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_CustomerRetrieve.resx">
+      <DependentUpon>admin_CustomerRetrieve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_CustomerUpdate.resx">
+      <DependentUpon>admin_CustomerUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_forget.resx">
+      <DependentUpon>admin_forget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_inventory.resx">
+      <DependentUpon>admin_inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_manageAccount.resx">
+      <DependentUpon>admin_manageAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_manageCustomerAcc.resx">
+      <DependentUpon>admin_manageCustomerAcc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_manageSalesmanAcc.resx">
+      <DependentUpon>admin_manageSalesmanAcc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_manageVendorAcc.resx">
+      <DependentUpon>admin_manageVendorAcc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_menu.resx">
+      <DependentUpon>admin_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_reportMenu.resx">
+      <DependentUpon>admin_reportMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_SalesmanAdd.resx">
+      <DependentUpon>admin_SalesmanAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_SalesmanDelete.resx">
+      <DependentUpon>admin_SalesmanDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_salesmanReport.resx">
+      <DependentUpon>admin_salesmanReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_SalesmanRetrieve.resx">
+      <DependentUpon>admin_SalesmanRetrieve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_SalesmanUpdate.resx">
+      <DependentUpon>admin_SalesmanUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_salesRevenueReport.resx">
+      <DependentUpon>admin_salesRevenueReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_searchProducts.resx">
+      <DependentUpon>admin_searchProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_signin.resx">
+      <DependentUpon>admin_signin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_signup.resx">
+      <DependentUpon>admin_signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_VendorAdd.resx">
+      <DependentUpon>admin_VendorAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_VendorDelete.resx">
+      <DependentUpon>admin_VendorDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_VendorReport.resx">
+      <DependentUpon>admin_VendorReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_VendorRetrieve.resx">
+      <DependentUpon>admin_VendorRetrieve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_VendorUpdate.resx">
+      <DependentUpon>admin_VendorUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_forget.resx">
+      <DependentUpon>customer_forget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_history.resx">
+      <DependentUpon>Customer_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_menu.resx">
+      <DependentUpon>Customer_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_return.resx">
+      <DependentUpon>customer_return.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_siginup.resx">
+      <DependentUpon>customer_siginup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="salesman_forget.resx">
+      <DependentUpon>salesman_forget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesman_menu.resx">
+      <DependentUpon>salesman_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesman_newBill.resx">
+      <DependentUpon>salesman_newBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesman_return.resx">
+      <DependentUpon>salesman_return.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesman_signin.resx">
+      <DependentUpon>salesman_signin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesman_signup.resx">
+      <DependentUpon>salesman_signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendor_forget.resx">
+      <DependentUpon>vendor_forget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendor_history.resx">
+      <DependentUpon>vendor_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendor_menu.resx">
+      <DependentUpon>vendor_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendor_products.resx">
+      <DependentUpon>Vendor_products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendor_signin.resx">
+      <DependentUpon>vendor_signin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendor_signup.resx">
+      <DependentUpon>vendor_signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="packages\System.Text.Json.6.0.1\build\System.Text.Json.targets" Condition="Exists('packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\System.Text.Json.6.0.1\build\System.Text.Json.targets'))" />
+  </Target>
+</Project>

@@ -1,0 +1,657 @@
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\bin\Debug\Managment System.exe.config
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\bin\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\bin\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.Form1.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.Form2.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.admin_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.admin_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.customer_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\Managment System.exe.config
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\Managment System.exe
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\Managment System.pdb
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Buffers.dll
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Memory.dll
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Numerics.Vectors.dll
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Text.Encodings.Web.dll
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Text.Json.dll
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.ValueTuple.dll
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Buffers.xml
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Memory.xml
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Numerics.Vectors.xml
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Text.Encodings.Web.xml
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Text.Json.xml
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Sameer\4th semester\DS Lab\Managment System\bin\Debug\System.ValueTuple.xml
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.admin_signin.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.admin_signup.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.Form1.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.Form2.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.customer_signin.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment System.csproj.CopyComplete
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment System.exe
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\Managment System.exe.config
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Buffers.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Memory.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Text.Json.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.ValueTuple.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Buffers.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Memory.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Text.Json.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\bin\Debug\System.ValueTuple.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.admin_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.admin_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.Form1.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.Form2.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.customer_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.salesman_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.salesman_newBill.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.salesman_return.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment System.csproj.CopyComplete
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.Customer_history.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.Customer_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Managment System\obj\Debug\Managment_System.customer_return.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.Customer_history.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.Customer_menu.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.customer_return.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.salesman_menu.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.salesman_newBill.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.salesman_return.resources
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\Managment System.exe.config
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\Managment System.exe
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\Managment System.pdb
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Text.Json.xml
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Downloads\Managment System\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.admin_signin.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.admin_signup.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.Customer_history.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.Customer_menu.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.customer_return.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.Form1.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.Form2.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.customer_signin.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.salesman_menu.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.salesman_newBill.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.salesman_return.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment System.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment System.exe
+C:\Users\Lenovo\Downloads\Managment System\obj\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\Managment System.exe.config
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Buffers.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Memory.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Text.Json.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.ValueTuple.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Buffers.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Memory.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Text.Json.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\bin\Debug\System.ValueTuple.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.admin_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.admin_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.Customer_history.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.Customer_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.customer_return.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.Form1.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.Form2.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.customer_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.salesman_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.salesman_newBill.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.salesman_return.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment System.csproj.CopyComplete
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.admin_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.customer_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.salesman_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Managment System\Managment System\obj\Debug\Managment_System.vendor_forget.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.admin_forget.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.admin_signin.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.admin_signup.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.customer_forget.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.Customer_history.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.Customer_menu.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.customer_return.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.Form1.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.Form2.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.customer_signin.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.salesman_forget.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.salesman_menu.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.salesman_newBill.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.salesman_return.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.vendor_forget.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment System.exe
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment System.pdb
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\Managment System.exe.config
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\Managment System.exe
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\Managment System.pdb
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Buffers.dll
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Memory.dll
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Numerics.Vectors.dll
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Text.Encodings.Web.dll
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Text.Json.dll
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.ValueTuple.dll
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Buffers.xml
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Memory.xml
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Numerics.Vectors.xml
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Text.Encodings.Web.xml
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Text.Json.xml
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\bin\Debug\System.ValueTuple.xml
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment System.csproj.CopyComplete
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.Form4.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.Form5.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.Form6.resources
+F:\Sameer\4th semester\DS Lab\Managment System\Managment System\obj\Debug\Managment_System.Form7.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\Managment System.exe.config
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Buffers.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Memory.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Text.Json.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.ValueTuple.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Buffers.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Memory.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Text.Json.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\bin\Debug\System.ValueTuple.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.admin_allProducts.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.admin_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.admin_inventory.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.admin_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.admin_report.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.admin_searchProducts.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.admin_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.admin_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.customer_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.Customer_history.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.Customer_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.customer_return.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.Form1.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.Form2.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.customer_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.Form4.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.Form5.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.Form6.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.Form7.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.salesman_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.salesman_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.salesman_newBill.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.salesman_return.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.vendor_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.vendor_history.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.vendor_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.Vendor_products.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment System.csproj.CopyComplete
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Imported Update\Imported update updated\Managment System\Managment System\obj\Debug\Managment System.pdb
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.admin_allProducts.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.admin_forget.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.admin_inventory.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.admin_menu.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.admin_report.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.admin_searchProducts.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.customer_forget.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.Form4.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.Form5.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.Form6.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.Form7.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.salesman_forget.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.vendor_forget.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.vendor_history.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.vendor_menu.resources
+F:\Sameer\4th semester\DS Lab\Managment System\obj\Debug\Managment_System.Vendor_products.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\Managment System.exe.config
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Buffers.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Memory.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Text.Json.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.ValueTuple.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Buffers.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Memory.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Text.Json.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\bin\Debug\System.ValueTuple.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_allProducts.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_inventory.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_searchProducts.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.customer_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.Customer_history.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.Customer_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.customer_return.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.Form1.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.Form2.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.customer_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.Form4.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.Form5.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.Form6.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.Form7.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.salesman_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.salesman_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.salesman_newBill.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.salesman_return.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.vendor_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.vendor_history.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.vendor_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.Vendor_products.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment System.csproj.CopyComplete
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_CustomerAdd.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_CustomerDelete.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_customerReportForm8.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_CustomerRetrieve.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_CustomerUpdate.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_manageAccount.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_manageCustomerAcc.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_manageSalesmanAcc.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_manageVendorAcc.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_reportMenu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_SalesmanAdd.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_SalesmanDelete.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_salesmanReport.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_SalesmanRetrieve.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_SalesmanUpdate.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_salesRevenueReport.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_VendorAdd.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_VendorDelete.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_VendorReport.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_VendorRetrieve.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Very updated\Managment System (1)\Managment System\obj\Debug\Managment_System.admin_VendorUpdate.resources
+F:\Managment System\bin\Debug\Managment System.exe.config
+F:\Managment System\bin\Debug\Managment System.exe
+F:\Managment System\bin\Debug\Managment System.pdb
+F:\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Managment System\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Managment System\bin\Debug\System.Buffers.dll
+F:\Managment System\bin\Debug\System.Memory.dll
+F:\Managment System\bin\Debug\System.Numerics.Vectors.dll
+F:\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Managment System\bin\Debug\System.Text.Encodings.Web.dll
+F:\Managment System\bin\Debug\System.Text.Json.dll
+F:\Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Managment System\bin\Debug\System.ValueTuple.dll
+F:\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Managment System\bin\Debug\System.Buffers.xml
+F:\Managment System\bin\Debug\System.Memory.xml
+F:\Managment System\bin\Debug\System.Numerics.Vectors.xml
+F:\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Managment System\bin\Debug\System.Text.Encodings.Web.xml
+F:\Managment System\bin\Debug\System.Text.Json.xml
+F:\Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Managment System\bin\Debug\System.ValueTuple.xml
+F:\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+F:\Managment System\obj\Debug\Managment_System.admin_allProducts.resources
+F:\Managment System\obj\Debug\Managment_System.admin_CustomerAdd.resources
+F:\Managment System\obj\Debug\Managment_System.admin_CustomerDelete.resources
+F:\Managment System\obj\Debug\Managment_System.admin_customerReportForm8.resources
+F:\Managment System\obj\Debug\Managment_System.admin_CustomerRetrieve.resources
+F:\Managment System\obj\Debug\Managment_System.admin_CustomerUpdate.resources
+F:\Managment System\obj\Debug\Managment_System.admin_forget.resources
+F:\Managment System\obj\Debug\Managment_System.admin_inventory.resources
+F:\Managment System\obj\Debug\Managment_System.admin_manageAccount.resources
+F:\Managment System\obj\Debug\Managment_System.admin_manageCustomerAcc.resources
+F:\Managment System\obj\Debug\Managment_System.admin_manageSalesmanAcc.resources
+F:\Managment System\obj\Debug\Managment_System.admin_manageVendorAcc.resources
+F:\Managment System\obj\Debug\Managment_System.admin_menu.resources
+F:\Managment System\obj\Debug\Managment_System.admin_reportMenu.resources
+F:\Managment System\obj\Debug\Managment_System.admin_SalesmanAdd.resources
+F:\Managment System\obj\Debug\Managment_System.admin_SalesmanDelete.resources
+F:\Managment System\obj\Debug\Managment_System.admin_salesmanReport.resources
+F:\Managment System\obj\Debug\Managment_System.admin_SalesmanRetrieve.resources
+F:\Managment System\obj\Debug\Managment_System.admin_SalesmanUpdate.resources
+F:\Managment System\obj\Debug\Managment_System.admin_salesRevenueReport.resources
+F:\Managment System\obj\Debug\Managment_System.admin_searchProducts.resources
+F:\Managment System\obj\Debug\Managment_System.admin_signin.resources
+F:\Managment System\obj\Debug\Managment_System.admin_signup.resources
+F:\Managment System\obj\Debug\Managment_System.admin_VendorAdd.resources
+F:\Managment System\obj\Debug\Managment_System.admin_VendorDelete.resources
+F:\Managment System\obj\Debug\Managment_System.admin_VendorReport.resources
+F:\Managment System\obj\Debug\Managment_System.admin_VendorRetrieve.resources
+F:\Managment System\obj\Debug\Managment_System.admin_VendorUpdate.resources
+F:\Managment System\obj\Debug\Managment_System.customer_forget.resources
+F:\Managment System\obj\Debug\Managment_System.Customer_history.resources
+F:\Managment System\obj\Debug\Managment_System.Customer_menu.resources
+F:\Managment System\obj\Debug\Managment_System.customer_return.resources
+F:\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+F:\Managment System\obj\Debug\Managment_System.Form1.resources
+F:\Managment System\obj\Debug\Managment_System.Form2.resources
+F:\Managment System\obj\Debug\Managment_System.customer_signin.resources
+F:\Managment System\obj\Debug\Managment_System.Form4.resources
+F:\Managment System\obj\Debug\Managment_System.Form5.resources
+F:\Managment System\obj\Debug\Managment_System.Form6.resources
+F:\Managment System\obj\Debug\Managment_System.Form7.resources
+F:\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+F:\Managment System\obj\Debug\Managment_System.salesman_forget.resources
+F:\Managment System\obj\Debug\Managment_System.salesman_menu.resources
+F:\Managment System\obj\Debug\Managment_System.salesman_newBill.resources
+F:\Managment System\obj\Debug\Managment_System.salesman_return.resources
+F:\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+F:\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+F:\Managment System\obj\Debug\Managment_System.vendor_forget.resources
+F:\Managment System\obj\Debug\Managment_System.vendor_history.resources
+F:\Managment System\obj\Debug\Managment_System.vendor_menu.resources
+F:\Managment System\obj\Debug\Managment_System.Vendor_products.resources
+F:\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+F:\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+F:\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+F:\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+F:\Managment System\obj\Debug\Managment System.csproj.CopyComplete
+F:\Managment System\obj\Debug\Managment System.exe
+F:\Managment System\obj\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\Managment System.exe.config
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\Managment System.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Buffers.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Memory.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Text.Json.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.ValueTuple.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Buffers.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Memory.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Text.Json.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\bin\Debug\System.ValueTuple.xml
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_allProducts.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_CustomerAdd.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_CustomerDelete.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_customerReportForm8.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_CustomerRetrieve.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_CustomerUpdate.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_inventory.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_manageAccount.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_manageCustomerAcc.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_manageSalesmanAcc.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_manageVendorAcc.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_reportMenu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_SalesmanAdd.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_SalesmanDelete.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_salesmanReport.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_SalesmanRetrieve.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_SalesmanUpdate.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_salesRevenueReport.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_searchProducts.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_VendorAdd.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_VendorDelete.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_VendorReport.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_VendorRetrieve.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.admin_VendorUpdate.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.customer_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.Customer_history.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.Customer_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.customer_return.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.Form1.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.Form2.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.customer_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.Form4.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.Form5.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.Form6.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.Form7.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.salesman_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.salesman_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.salesman_newBill.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.salesman_return.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.vendor_forget.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.vendor_history.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.vendor_menu.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.Vendor_products.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment System.csproj.CopyComplete
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment System.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\Imported project\Final with front\Managment System\Managment System\obj\Debug\Managment System.pdb
+F:\VS 2019\Managment System\bin\Debug\Managment System.exe.config
+F:\VS 2019\Managment System\bin\Debug\Managment System.exe
+F:\VS 2019\Managment System\bin\Debug\Managment System.pdb
+F:\VS 2019\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\VS 2019\Managment System\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\VS 2019\Managment System\bin\Debug\System.Buffers.dll
+F:\VS 2019\Managment System\bin\Debug\System.Memory.dll
+F:\VS 2019\Managment System\bin\Debug\System.Numerics.Vectors.dll
+F:\VS 2019\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\VS 2019\Managment System\bin\Debug\System.Text.Encodings.Web.dll
+F:\VS 2019\Managment System\bin\Debug\System.Text.Json.dll
+F:\VS 2019\Managment System\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\VS 2019\Managment System\bin\Debug\System.ValueTuple.dll
+F:\VS 2019\Managment System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\VS 2019\Managment System\bin\Debug\System.Buffers.xml
+F:\VS 2019\Managment System\bin\Debug\System.Memory.xml
+F:\VS 2019\Managment System\bin\Debug\System.Numerics.Vectors.xml
+F:\VS 2019\Managment System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\VS 2019\Managment System\bin\Debug\System.Text.Encodings.Web.xml
+F:\VS 2019\Managment System\bin\Debug\System.Text.Json.xml
+F:\VS 2019\Managment System\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\VS 2019\Managment System\bin\Debug\System.ValueTuple.xml
+F:\VS 2019\Managment System\obj\Debug\Managment System.csproj.AssemblyReference.cache
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_allProducts.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_CustomerAdd.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_CustomerDelete.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_customerReportForm8.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_CustomerRetrieve.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_CustomerUpdate.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_forget.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_inventory.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_manageAccount.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_manageCustomerAcc.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_manageSalesmanAcc.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_manageVendorAcc.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_menu.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_reportMenu.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_SalesmanAdd.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_SalesmanDelete.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_salesmanReport.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_SalesmanRetrieve.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_SalesmanUpdate.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_salesRevenueReport.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_searchProducts.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_signin.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_signup.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_VendorAdd.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_VendorDelete.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_VendorReport.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_VendorRetrieve.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.admin_VendorUpdate.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.customer_forget.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.Customer_history.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.Customer_menu.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.customer_return.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.customer_siginup.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.Form1.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.Form2.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.customer_signin.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.Form4.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.Form5.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.Form6.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.Form7.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.Properties.Resources.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.salesman_forget.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.salesman_menu.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.salesman_newBill.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.salesman_return.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.salesman_signin.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.salesman_signup.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.vendor_forget.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.vendor_history.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.vendor_menu.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.Vendor_products.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.vendor_signin.resources
+F:\VS 2019\Managment System\obj\Debug\Managment_System.vendor_signup.resources
+F:\VS 2019\Managment System\obj\Debug\Managment System.csproj.GenerateResource.cache
+F:\VS 2019\Managment System\obj\Debug\Managment System.csproj.CoreCompileInputs.cache
+F:\VS 2019\Managment System\obj\Debug\Managment System.csproj.CopyComplete
+F:\VS 2019\Managment System\obj\Debug\Managment System.exe
+F:\VS 2019\Managment System\obj\Debug\Managment System.pdb
